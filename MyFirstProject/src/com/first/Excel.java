@@ -14,7 +14,7 @@ int k=b.read();
 System.out.println(k);
 
 
-
+/* blastt padthadaaa */
 
 /*
  int k=f.available();
